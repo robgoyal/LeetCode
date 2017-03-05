@@ -8,5 +8,5 @@ LeetCode Problem Solutions
 | :--------------: | :-------: | :-------------: |
 |    Fizz Buzz     |    412    |     Python      |
 |  Reverse String  |    344    |     Python      |
-|                  |           |                 |
+| Hamming Distance |    461    |     Python      |
 |                  |           |                 |
